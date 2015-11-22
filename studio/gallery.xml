@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery frameColor="0x909497" frameWidth="15" imagePadding="20" displayTime="6" enableRightClickOpen="true">
+
+<image>
+   <url>1.jpg</url>
+   <caption></caption>
+   <width>826</width>
+   <height>367</height>
+</image>
+<image>
+   <url>2.jpg</url>
+   <caption></caption>
+   <width>592</width>
+   <height>690</height>
+</image>
+<image>
+   <url>3.jpg</url>
+   <caption></caption>
+   <width>498</width>
+   <height>750</height>
+</image>
+<image>
+   <url>4.jpg</url>
+   <caption></caption>
+   <width>601</width>
+   <height>750</height>
+</image>
+<image>
+   <url>5.jpg</url>
+   <caption></caption>
+   <width>482</width>
+   <height>750</height>
+</image>
+<image>
+   <url>6.jpg</url>
+   <caption></caption>
+   <width>506</width>
+   <height>750</height>
+</image>
+<image>
+   <url>7.jpg</url>
+   <caption></caption>
+   <width>631</width>
+   <height>750</height>
+</image>
+<image>
+   <url>8.jpg</url>
+   <caption></caption>
+   <width>622</width>
+   <height>750</height>
+</image>
+<image>
+   <url>9.jpg</url>
+   <caption></caption>
+   <width>557</width>
+   <height>750</height>
+</image>
+<image>
+   <url>10.jpg</url>
+   <caption></caption>
+   <width>528</width>
+   <height>750</height>
+</image>
+
+<image>
+   <url>12.jpg</url>
+   <caption></caption>
+   <width>482</width>
+   <height>750</height>
+</image>
+<image>
+   <url>13.jpg</url>
+   <caption></caption>
+   <width>670</width>
+   <height>750</height>
+</image>
+<image>
+   <url>14.jpg</url>
+   <caption></caption>
+   <width>560</width>
+   <height>750</height>
+</image>
+<image>
+   <url>15.jpg</url>
+   <caption></caption>
+   <width>582</width>
+   <height>700</height>
+</image>
+<image>
+   <url>16.jpg</url>
+   <caption></caption>
+   <width>575</width>
+   <height>750</height>
+</image>
+<image>
+   <url>17.jpg</url>
+   <caption></caption>
+   <width>549</width>
+   <height>750</height>
+</image>
+
+<image>
+   <url>18.jpg</url>
+   <caption></caption>
+   <width>514</width>
+   <height>750</height>
+</image>
+<image>
+   <url>19.jpg</url>
+   <caption></caption>
+   <width>481</width>
+   <height>750</height>
+</image>
+<image>
+   <url>20.jpg</url>
+   <caption></caption>
+   <width>500</width>
+   <height>750</height>
+</image>
+
+<image>
+   <url>21.jpg</url>
+   <caption></caption>
+   <width>513</width>
+   <height>750</height>
+</image>
+<image>
+   <url>23.jpg</url>
+   <caption></caption>
+   <width>750</width>
+   <height>489</height>
+</image>
+<image>
+   <url>24.jpg</url>
+   <caption></caption>
+   <width>573</width>
+   <height>800</height>
+</image>
+<image>
+   <url>25.jpg</url>
+   <caption></caption>
+   <width>637</width>
+   <height>750</height>
+</image>
+<image>
+   <url>26.jpg</url>
+   <caption></caption>
+   <width>467</width>
+   <height>700</height>
+</image>
+<image>
+   <url>27.jpg</url>
+   <caption></caption>
+   <width>510</width>
+   <height>750</height>
+</image>
+<image>
+   <url>28.jpg</url>
+   <caption></caption>
+   <width>469</width>
+   <height>750</height>
+</image>
+<image>
+   <url>29.jpg</url>
+   <caption></caption>
+   <width>518</width>
+   <height>750</height>
+</image>
+<image>
+   <url>30.jpg</url>
+   <caption></caption>
+   <width>531</width>
+   <height>800</height>
+</image>
+<image>
+   <url>31.jpg</url>
+   <caption></caption>
+   <width>489</width>
+   <height>750</height>
+</image>
+<image>
+   <url>32.jpg</url>
+   <caption></caption>
+   <width>584</width>
+   <height>750</height>
+</image>
+<image>
+   <url>33.jpg</url>
+   <caption></caption>
+   <width>458</width>
+   <height>750</height>
+</image>
+<image>
+   <url>34.jpg</url>
+   <caption></caption>
+   <width>561</width>
+   <height>750</height>
+</image>
+<image>
+   <url>35.jpg</url>
+   <caption></caption>
+   <width>466</width>
+   <height>750</height>
+</image>
+<image>
+   <url>11.jpg</url>
+   <caption></caption>
+   <width>750</width>
+   <height>546</height>
+</image>
+</gallery>

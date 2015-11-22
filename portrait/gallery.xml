@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery frameColor="0x909497" frameWidth="15" imagePadding="20" displayTime="6" enableRightClickOpen="true">
+<image>
+   <url>5.jpg</url>
+   <caption></caption>
+   <width>750</width>
+   <height>586</height>
+</image>
+
+<image>
+   <url>2.jpg</url>
+   <caption></caption>
+   <width>568</width>
+   <height>750</height>
+</image>
+<image>
+   <url>3.jpg</url>
+   <caption></caption>
+   <width>655</width>
+   <height>750</height>
+</image>
+<image>
+   <url>4.jpg</url>
+   <caption></caption>
+   <width>750</width>
+   <height>661</height>
+</image>
+<image>
+   <url>6.jpg</url>
+   <caption></caption>
+   <width>750</width>
+   <height>750</height>
+</image>
+<image>
+   <url>7.jpg</url>
+   <caption></caption>
+   <width>513</width>
+   <height>750</height>
+</image>
+<image>
+   <url>8.jpg</url>
+   <caption></caption>
+   <width>750</width>
+   <height>750</height>
+</image>
+<image>
+   <url>9.jpg</url>
+   <caption></caption>
+   <width>576</width>
+   <height>750</height>
+</image>
+<image>
+   <url>10.jpg</url>
+   <caption></caption>
+   <width>500</width>
+   <height>750</height>
+</image>
+<image>
+   <url>11.jpg</url>
+   <caption></caption>
+   <width>617</width>
+   <height>650</height>
+</image>
+<image>
+   <url>12.jpg</url>
+   <caption></caption>
+   <width>619</width>
+   <height>750</height>
+</image>
+<image>
+   <url>13.jpg</url>
+   <caption></caption>
+   <width>590</width>
+   <height>750</height>
+</image>
+<image>
+   <url>14.jpg</url>
+   <caption></caption>
+   <width>700</width>
+   <height>557</height>
+</image>
+<image>
+   <url>15.jpg</url>
+   <caption></caption>
+   <width>495</width>
+   <height>750</height>
+</image>
+<image>
+   <url>16.jpg</url>
+   <caption></caption>
+   <width>516</width>
+   <height>750</height>
+</image>
+<image>
+   <url>17.jpg</url>
+   <caption></caption>
+   <width>568</width>
+   <height>750</height>
+</image>
+<image>
+   <url>1.jpg</url>
+   <caption></caption>
+   <width>750</width>
+   <height>472</height>
+</image>
+</gallery>

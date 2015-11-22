@@ -1,0 +1,302 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin:0px;
+	background-color: #000;
+	width: 100%;
+	height: auto;
+	background-image: url(images/mainoleg_02.jpg);
+	background-repeat: repeat-x;
+	}
+	
+h1 {
+	color:#867459;
+	font-family: Tahoma;
+	font-size: 13px;
+	text-transform: uppercase;
+	font-weight: normal;
+	margin-left: 33px;
+	border-bottom-width: thin;
+	border-bottom-style: dashed;
+	border-bottom-color: #5A4F3D;
+	margin-right: 733px;
+	margin-top: 3px;
+	width: auto;
+	}
+	
+/* ID Styles */
+
+#outer {
+	width: 900px;
+	margin: 0 auto;
+	height: auto;
+	}
+	
+	
+#topbluddi {
+	width: 900px;
+	z-index: 0;
+	height: 138px;
+	}
+	
+#toplogo {
+	width: 400px;
+	z-index: auto;
+	float: left;
+	background-image:url(images/mainoleg_04.jpg);
+	height: 138px;
+	}
+	
+#topright {
+	width: 500px;
+	z-index: auto;
+	float: right;
+	background-image: url(images/mainoleg_05.jpg);
+	height: 138px;
+	}
+	
+#topas {
+	width: 900px;
+	z-index: 0;
+	float: left;
+	background-image: url(images/topas.jpg);
+	height: 65px;
+	background-repeat: repeat-x;
+	}
+	
+#bottompas {
+	width: 900px;
+	z-index: 0;
+	background-image: url(images/bottompas.jpg);
+	height: 157px;
+	background-repeat: repeat-x;
+	float: left;
+	bottom: 160px;
+	position: relative;
+	overflow: hidden;
+
+	}
+	
+#portret {
+	width: 260px;
+	z-index: 3;
+	float: left;
+	height: 365px;
+	position: relative;
+	top: 10px;
+	background-image: url(images/oleg1.jpg);
+	background-repeat: no-repeat;
+	border: 10px solid #909497;
+	right: 0px;
+	margin-left: 25px;
+	}
+
+#desktop {
+	width: 900px;
+	z-index: 0;
+	height: 530px;
+	background-color: #f2f2f2;
+	float: left;
+	}
+	
+#desktopmain {
+	width: 900px;
+	z-index: 0;
+	height: 495px;
+	background-color: #f2f2f2;
+	float: left;
+	}
+	
+#title {
+	width: 900px;
+	z-index: 2;
+	height: 25px;
+	background-image: url(images/title.png);
+	background-repeat: repeat-x;
+	float:left;
+	margin-top: 30px;
+	}
+	
+#contact {
+	width: auto;
+	z-index: 2;
+	height: 370px;
+	float:left;
+	position: relative;
+	padding-top: 30px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	background-color: #2f363c
+.;
+	padding-left: 40px;
+	}
+	
+#adress {
+	width: 358px;
+	z-index: 2;
+	height: auto;
+	float:left;
+	margin-top: 10px;
+	text-align: justify;
+	border-top-width: 1px;
+	border-top-style: dotted;
+	border-top-color: #909497;
+	padding-top: 10px;
+	font-family:Arial;
+	font-size: 12px;
+	color:#515151;
+	line-height: 1.5em;
+	}
+	
+#adress a {
+	font-family:Arial;
+	font-size: 12px;
+	color:#2f363c;
+	text-decoration: none;
+	}
+	
+#adress a:hover {
+	font-family:Arial;
+	font-size: 12px;
+	color:#3C5FAC;
+	text-decoration: none;
+	}
+	
+#ugolki {
+	width: 900px;
+	z-index: 6;
+	float: left;
+	bottom: 30px;
+	position: relative;
+	}
+	
+#ugolok_bl {
+	width: 58px;
+	background-image: url(images/ugolok_bl.png);
+	height: 56px;
+	float:left;
+	}
+	
+#ugolok_br {
+	width: 58px;
+	background-image: url(images/ugolok_br.png);
+	float: right;
+	height: 56px;
+
+	}
+	
+#lang {
+	width: 144px;
+	float:right;
+	z-index: 3;
+	height: 22px;
+	background-image: url(images/lang.png);
+	background-repeat: repeat-x;
+	}
+	
+#langs {
+	width: 72px;
+	float:left;
+	text-align:center;
+	position: relative;
+	}
+	
+#gallery {
+	width: 830px;
+	z-index: 4;
+	height: auto;
+	border: 4px solid #909497;
+	padding: 2px;
+	float: left;
+	margin-left: 30px;
+	margin-right: 30px;
+	text-align: center;
+	position: relative;
+
+	}
+			
+#footer {
+	width: 900px;
+	z-index: 1;
+	height: 98px;
+	background-image: url(images/bottom.png);
+	background-repeat: repeat-x;
+	float: left;
+	}
+	
+#bottomtext {
+	color:#867459;
+	text-align: center;
+	font-size: 11px;
+	font-family: Arial;
+	z-index: 5;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	} 
+	
+#bottomtext a{
+	color:#9f9f9f;
+	font-size: 11px;
+	font-family: Arial;
+	text-decoration: none;
+	}
+	
+#bottomtext a:hover{
+	color:#E2DCD3;
+	text-decoration: none;
+	}
+	
+#bottomtext a:visited{
+	color:#9f9f9f;
+	text-decoration: none;
+	}
+	
+	/* Class Styles */
+	
+.text {
+	width: 470px;
+	color:#515151;
+	text-align: justify;
+	font-size: 12px;
+	font-family: Arial;
+	margin-right: 20px;
+	margin-left: 25px;
+	text-indent: 10px;
+	text-transform: inherit;
+	float: right;
+	line-height: 1.2em;
+	position: relative;
+	}
+
+.menu {
+	width: 400px;
+	margin-top: 114px;
+	height: 24px;
+	z-index: 2;
+	}
+	
+#copy {
+	color:#867459;
+	text-align: right;
+	font-size: 11px;
+	font-family: Arial;
+	padding-right: 30px;
+	}	
